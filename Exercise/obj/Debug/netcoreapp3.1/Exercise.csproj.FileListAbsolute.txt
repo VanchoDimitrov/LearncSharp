@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/Exercise/bin/Debug/netcoreapp3.1/Exercise.deps.json
+/Users/admin/Projects/Begginers/Exercise/bin/Debug/netcoreapp3.1/Exercise.runtimeconfig.json
+/Users/admin/Projects/Begginers/Exercise/bin/Debug/netcoreapp3.1/Exercise.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/Exercise/bin/Debug/netcoreapp3.1/Exercise.dll
+/Users/admin/Projects/Begginers/Exercise/bin/Debug/netcoreapp3.1/Exercise.pdb
+/Users/admin/Projects/Begginers/Exercise/obj/Debug/netcoreapp3.1/Exercise.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/Exercise/obj/Debug/netcoreapp3.1/Exercise.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/Exercise/obj/Debug/netcoreapp3.1/Exercise.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/Exercise/obj/Debug/netcoreapp3.1/Exercise.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/Exercise/obj/Debug/netcoreapp3.1/Exercise.dll
+/Users/admin/Projects/Begginers/Exercise/obj/Debug/netcoreapp3.1/Exercise.pdb
+/Users/admin/Projects/Begginers/Exercise/obj/Debug/netcoreapp3.1/Exercise.genruntimeconfig.cache
