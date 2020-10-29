@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/bin/Debug/netcoreapp3.1/15WorkingWithDateTime.deps.json
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/bin/Debug/netcoreapp3.1/15WorkingWithDateTime.runtimeconfig.json
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/bin/Debug/netcoreapp3.1/15WorkingWithDateTime.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/bin/Debug/netcoreapp3.1/15WorkingWithDateTime.dll
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/bin/Debug/netcoreapp3.1/15WorkingWithDateTime.pdb
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/obj/Debug/netcoreapp3.1/15WorkingWithDateTime.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/obj/Debug/netcoreapp3.1/15WorkingWithDateTime.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/obj/Debug/netcoreapp3.1/15WorkingWithDateTime.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/obj/Debug/netcoreapp3.1/15WorkingWithDateTime.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/obj/Debug/netcoreapp3.1/15WorkingWithDateTime.dll
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/obj/Debug/netcoreapp3.1/15WorkingWithDateTime.pdb
+/Users/admin/Projects/Begginers/15WorkingWithDateTime/obj/Debug/netcoreapp3.1/15WorkingWithDateTime.genruntimeconfig.cache
