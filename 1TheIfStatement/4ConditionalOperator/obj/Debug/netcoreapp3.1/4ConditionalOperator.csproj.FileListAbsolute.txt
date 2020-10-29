@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/bin/Debug/netcoreapp3.1/4ConditionalOperator.deps.json
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/bin/Debug/netcoreapp3.1/4ConditionalOperator.runtimeconfig.json
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/bin/Debug/netcoreapp3.1/4ConditionalOperator.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/bin/Debug/netcoreapp3.1/4ConditionalOperator.dll
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/bin/Debug/netcoreapp3.1/4ConditionalOperator.pdb
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/obj/Debug/netcoreapp3.1/4ConditionalOperator.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/obj/Debug/netcoreapp3.1/4ConditionalOperator.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/obj/Debug/netcoreapp3.1/4ConditionalOperator.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/obj/Debug/netcoreapp3.1/4ConditionalOperator.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/obj/Debug/netcoreapp3.1/4ConditionalOperator.dll
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/obj/Debug/netcoreapp3.1/4ConditionalOperator.pdb
+/Users/admin/Projects/Begginers/1TheIfStatement/4ConditionalOperator/obj/Debug/netcoreapp3.1/4ConditionalOperator.genruntimeconfig.cache

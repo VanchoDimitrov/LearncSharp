@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/1TheIfStatement/bin/Debug/netcoreapp3.1/1TheIfStatement.deps.json
+/Users/admin/Projects/Begginers/1TheIfStatement/bin/Debug/netcoreapp3.1/1TheIfStatement.runtimeconfig.json
+/Users/admin/Projects/Begginers/1TheIfStatement/bin/Debug/netcoreapp3.1/1TheIfStatement.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/1TheIfStatement/bin/Debug/netcoreapp3.1/1TheIfStatement.dll
+/Users/admin/Projects/Begginers/1TheIfStatement/bin/Debug/netcoreapp3.1/1TheIfStatement.pdb
+/Users/admin/Projects/Begginers/1TheIfStatement/obj/Debug/netcoreapp3.1/1TheIfStatement.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/obj/Debug/netcoreapp3.1/1TheIfStatement.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/obj/Debug/netcoreapp3.1/1TheIfStatement.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/1TheIfStatement/obj/Debug/netcoreapp3.1/1TheIfStatement.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/obj/Debug/netcoreapp3.1/1TheIfStatement.dll
+/Users/admin/Projects/Begginers/1TheIfStatement/obj/Debug/netcoreapp3.1/1TheIfStatement.pdb
+/Users/admin/Projects/Begginers/1TheIfStatement/obj/Debug/netcoreapp3.1/1TheIfStatement.genruntimeconfig.cache

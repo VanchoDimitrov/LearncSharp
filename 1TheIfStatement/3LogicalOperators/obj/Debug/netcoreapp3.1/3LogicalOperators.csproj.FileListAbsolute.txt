@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/bin/Debug/netcoreapp3.1/3LogicalOperators.deps.json
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/bin/Debug/netcoreapp3.1/3LogicalOperators.runtimeconfig.json
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/bin/Debug/netcoreapp3.1/3LogicalOperators.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/bin/Debug/netcoreapp3.1/3LogicalOperators.dll
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/bin/Debug/netcoreapp3.1/3LogicalOperators.pdb
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/obj/Debug/netcoreapp3.1/3LogicalOperators.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/obj/Debug/netcoreapp3.1/3LogicalOperators.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/obj/Debug/netcoreapp3.1/3LogicalOperators.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/obj/Debug/netcoreapp3.1/3LogicalOperators.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/obj/Debug/netcoreapp3.1/3LogicalOperators.dll
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/obj/Debug/netcoreapp3.1/3LogicalOperators.pdb
+/Users/admin/Projects/Begginers/1TheIfStatement/3LogicalOperators/obj/Debug/netcoreapp3.1/3LogicalOperators.genruntimeconfig.cache

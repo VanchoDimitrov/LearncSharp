@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/bin/Debug/netcoreapp3.1/2TheSWITCHStatement.deps.json
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/bin/Debug/netcoreapp3.1/2TheSWITCHStatement.runtimeconfig.json
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/bin/Debug/netcoreapp3.1/2TheSWITCHStatement.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/bin/Debug/netcoreapp3.1/2TheSWITCHStatement.dll
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/bin/Debug/netcoreapp3.1/2TheSWITCHStatement.pdb
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/obj/Debug/netcoreapp3.1/2TheSWITCHStatement.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/obj/Debug/netcoreapp3.1/2TheSWITCHStatement.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/obj/Debug/netcoreapp3.1/2TheSWITCHStatement.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/obj/Debug/netcoreapp3.1/2TheSWITCHStatement.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/obj/Debug/netcoreapp3.1/2TheSWITCHStatement.dll
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/obj/Debug/netcoreapp3.1/2TheSWITCHStatement.pdb
+/Users/admin/Projects/Begginers/1TheIfStatement/2TheSWITCHStatement/obj/Debug/netcoreapp3.1/2TheSWITCHStatement.genruntimeconfig.cache
