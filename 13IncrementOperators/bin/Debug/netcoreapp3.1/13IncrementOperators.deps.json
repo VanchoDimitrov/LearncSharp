@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "13IncrementOperators/1.0.0": {
+        "runtime": {
+          "13IncrementOperators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13IncrementOperators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

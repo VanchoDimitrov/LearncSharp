@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/13IncrementOperators/bin/Debug/netcoreapp3.1/13IncrementOperators.deps.json
+/Users/admin/Projects/Begginers/13IncrementOperators/bin/Debug/netcoreapp3.1/13IncrementOperators.runtimeconfig.json
+/Users/admin/Projects/Begginers/13IncrementOperators/bin/Debug/netcoreapp3.1/13IncrementOperators.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/13IncrementOperators/bin/Debug/netcoreapp3.1/13IncrementOperators.dll
+/Users/admin/Projects/Begginers/13IncrementOperators/bin/Debug/netcoreapp3.1/13IncrementOperators.pdb
+/Users/admin/Projects/Begginers/13IncrementOperators/obj/Debug/netcoreapp3.1/13IncrementOperators.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/13IncrementOperators/obj/Debug/netcoreapp3.1/13IncrementOperators.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/13IncrementOperators/obj/Debug/netcoreapp3.1/13IncrementOperators.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/13IncrementOperators/obj/Debug/netcoreapp3.1/13IncrementOperators.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/13IncrementOperators/obj/Debug/netcoreapp3.1/13IncrementOperators.dll
+/Users/admin/Projects/Begginers/13IncrementOperators/obj/Debug/netcoreapp3.1/13IncrementOperators.pdb
+/Users/admin/Projects/Begginers/13IncrementOperators/obj/Debug/netcoreapp3.1/13IncrementOperators.genruntimeconfig.cache
