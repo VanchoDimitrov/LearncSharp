@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/2Comments/bin/Debug/netcoreapp3.1/2Comments.deps.json
+/Users/admin/Projects/Begginers/2Comments/bin/Debug/netcoreapp3.1/2Comments.runtimeconfig.json
+/Users/admin/Projects/Begginers/2Comments/bin/Debug/netcoreapp3.1/2Comments.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/2Comments/bin/Debug/netcoreapp3.1/2Comments.dll
+/Users/admin/Projects/Begginers/2Comments/bin/Debug/netcoreapp3.1/2Comments.pdb
+/Users/admin/Projects/Begginers/2Comments/obj/Debug/netcoreapp3.1/2Comments.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/2Comments/obj/Debug/netcoreapp3.1/2Comments.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/2Comments/obj/Debug/netcoreapp3.1/2Comments.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/2Comments/obj/Debug/netcoreapp3.1/2Comments.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/2Comments/obj/Debug/netcoreapp3.1/2Comments.dll
+/Users/admin/Projects/Begginers/2Comments/obj/Debug/netcoreapp3.1/2Comments.pdb
+/Users/admin/Projects/Begginers/2Comments/obj/Debug/netcoreapp3.1/2Comments.genruntimeconfig.cache
