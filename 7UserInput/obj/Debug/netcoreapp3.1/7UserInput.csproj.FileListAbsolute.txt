@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/7UserInput/bin/Debug/netcoreapp3.1/7UserInput.deps.json
+/Users/admin/Projects/Begginers/7UserInput/bin/Debug/netcoreapp3.1/7UserInput.runtimeconfig.json
+/Users/admin/Projects/Begginers/7UserInput/bin/Debug/netcoreapp3.1/7UserInput.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/7UserInput/bin/Debug/netcoreapp3.1/7UserInput.dll
+/Users/admin/Projects/Begginers/7UserInput/bin/Debug/netcoreapp3.1/7UserInput.pdb
+/Users/admin/Projects/Begginers/7UserInput/obj/Debug/netcoreapp3.1/7UserInput.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/7UserInput/obj/Debug/netcoreapp3.1/7UserInput.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/7UserInput/obj/Debug/netcoreapp3.1/7UserInput.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/7UserInput/obj/Debug/netcoreapp3.1/7UserInput.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/7UserInput/obj/Debug/netcoreapp3.1/7UserInput.dll
+/Users/admin/Projects/Begginers/7UserInput/obj/Debug/netcoreapp3.1/7UserInput.pdb
+/Users/admin/Projects/Begginers/7UserInput/obj/Debug/netcoreapp3.1/7UserInput.genruntimeconfig.cache
