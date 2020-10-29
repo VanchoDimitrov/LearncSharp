@@ -1,0 +1,11 @@
+/Users/admin/Projects/Begginers/Begginers/bin/Debug/netcoreapp3.1/9AritmeticOperators.deps.json
+/Users/admin/Projects/Begginers/Begginers/bin/Debug/netcoreapp3.1/9AritmeticOperators.runtimeconfig.json
+/Users/admin/Projects/Begginers/Begginers/bin/Debug/netcoreapp3.1/9AritmeticOperators.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/Begginers/bin/Debug/netcoreapp3.1/9AritmeticOperators.dll
+/Users/admin/Projects/Begginers/Begginers/bin/Debug/netcoreapp3.1/9AritmeticOperators.pdb
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/9AritmeticOperators.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/9AritmeticOperators.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/9AritmeticOperators.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/9AritmeticOperators.dll
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/9AritmeticOperators.pdb
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/9AritmeticOperators.genruntimeconfig.cache

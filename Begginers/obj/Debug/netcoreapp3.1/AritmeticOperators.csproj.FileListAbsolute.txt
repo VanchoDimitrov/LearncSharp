@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/Begginers/bin/Debug/netcoreapp3.1/AritmeticOperators.deps.json
+/Users/admin/Projects/Begginers/Begginers/bin/Debug/netcoreapp3.1/AritmeticOperators.runtimeconfig.json
+/Users/admin/Projects/Begginers/Begginers/bin/Debug/netcoreapp3.1/AritmeticOperators.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/Begginers/bin/Debug/netcoreapp3.1/AritmeticOperators.dll
+/Users/admin/Projects/Begginers/Begginers/bin/Debug/netcoreapp3.1/AritmeticOperators.pdb
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/AritmeticOperators.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/AritmeticOperators.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/AritmeticOperators.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/AritmeticOperators.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/AritmeticOperators.dll
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/AritmeticOperators.pdb
+/Users/admin/Projects/Begginers/Begginers/obj/Debug/netcoreapp3.1/AritmeticOperators.genruntimeconfig.cache
