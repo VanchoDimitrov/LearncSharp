@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/4Literals/bin/Debug/netcoreapp3.1/4Literals.deps.json
+/Users/admin/Projects/Begginers/4Literals/bin/Debug/netcoreapp3.1/4Literals.runtimeconfig.json
+/Users/admin/Projects/Begginers/4Literals/bin/Debug/netcoreapp3.1/4Literals.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/4Literals/bin/Debug/netcoreapp3.1/4Literals.dll
+/Users/admin/Projects/Begginers/4Literals/bin/Debug/netcoreapp3.1/4Literals.pdb
+/Users/admin/Projects/Begginers/4Literals/obj/Debug/netcoreapp3.1/4Literals.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/4Literals/obj/Debug/netcoreapp3.1/4Literals.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/4Literals/obj/Debug/netcoreapp3.1/4Literals.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/4Literals/obj/Debug/netcoreapp3.1/4Literals.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/4Literals/obj/Debug/netcoreapp3.1/4Literals.dll
+/Users/admin/Projects/Begginers/4Literals/obj/Debug/netcoreapp3.1/4Literals.pdb
+/Users/admin/Projects/Begginers/4Literals/obj/Debug/netcoreapp3.1/4Literals.genruntimeconfig.cache
