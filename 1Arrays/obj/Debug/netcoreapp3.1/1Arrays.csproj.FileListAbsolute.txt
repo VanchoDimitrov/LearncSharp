@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/1Arrays/bin/Debug/netcoreapp3.1/1Arrays.deps.json
+/Users/admin/Projects/Begginers/1Arrays/bin/Debug/netcoreapp3.1/1Arrays.runtimeconfig.json
+/Users/admin/Projects/Begginers/1Arrays/bin/Debug/netcoreapp3.1/1Arrays.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/1Arrays/bin/Debug/netcoreapp3.1/1Arrays.dll
+/Users/admin/Projects/Begginers/1Arrays/bin/Debug/netcoreapp3.1/1Arrays.pdb
+/Users/admin/Projects/Begginers/1Arrays/obj/Debug/netcoreapp3.1/1Arrays.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/1Arrays/obj/Debug/netcoreapp3.1/1Arrays.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/1Arrays/obj/Debug/netcoreapp3.1/1Arrays.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/1Arrays/obj/Debug/netcoreapp3.1/1Arrays.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/1Arrays/obj/Debug/netcoreapp3.1/1Arrays.dll
+/Users/admin/Projects/Begginers/1Arrays/obj/Debug/netcoreapp3.1/1Arrays.pdb
+/Users/admin/Projects/Begginers/1Arrays/obj/Debug/netcoreapp3.1/1Arrays.genruntimeconfig.cache
