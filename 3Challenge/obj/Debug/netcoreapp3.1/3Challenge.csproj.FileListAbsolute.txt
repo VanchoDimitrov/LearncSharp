@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/3Challenge/bin/Debug/netcoreapp3.1/3Challenge.deps.json
+/Users/admin/Projects/Begginers/3Challenge/bin/Debug/netcoreapp3.1/3Challenge.runtimeconfig.json
+/Users/admin/Projects/Begginers/3Challenge/bin/Debug/netcoreapp3.1/3Challenge.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/3Challenge/bin/Debug/netcoreapp3.1/3Challenge.dll
+/Users/admin/Projects/Begginers/3Challenge/bin/Debug/netcoreapp3.1/3Challenge.pdb
+/Users/admin/Projects/Begginers/3Challenge/obj/Debug/netcoreapp3.1/3Challenge.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/3Challenge/obj/Debug/netcoreapp3.1/3Challenge.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/3Challenge/obj/Debug/netcoreapp3.1/3Challenge.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/3Challenge/obj/Debug/netcoreapp3.1/3Challenge.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/3Challenge/obj/Debug/netcoreapp3.1/3Challenge.dll
+/Users/admin/Projects/Begginers/3Challenge/obj/Debug/netcoreapp3.1/3Challenge.pdb
+/Users/admin/Projects/Begginers/3Challenge/obj/Debug/netcoreapp3.1/3Challenge.genruntimeconfig.cache
