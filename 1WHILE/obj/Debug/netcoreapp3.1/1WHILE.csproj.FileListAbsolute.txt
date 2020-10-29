@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/1WHILE/bin/Debug/netcoreapp3.1/1WHILE.deps.json
+/Users/admin/Projects/Begginers/1WHILE/bin/Debug/netcoreapp3.1/1WHILE.runtimeconfig.json
+/Users/admin/Projects/Begginers/1WHILE/bin/Debug/netcoreapp3.1/1WHILE.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/1WHILE/bin/Debug/netcoreapp3.1/1WHILE.dll
+/Users/admin/Projects/Begginers/1WHILE/bin/Debug/netcoreapp3.1/1WHILE.pdb
+/Users/admin/Projects/Begginers/1WHILE/obj/Debug/netcoreapp3.1/1WHILE.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/1WHILE/obj/Debug/netcoreapp3.1/1WHILE.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/1WHILE/obj/Debug/netcoreapp3.1/1WHILE.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/1WHILE/obj/Debug/netcoreapp3.1/1WHILE.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/1WHILE/obj/Debug/netcoreapp3.1/1WHILE.dll
+/Users/admin/Projects/Begginers/1WHILE/obj/Debug/netcoreapp3.1/1WHILE.pdb
+/Users/admin/Projects/Begginers/1WHILE/obj/Debug/netcoreapp3.1/1WHILE.genruntimeconfig.cache

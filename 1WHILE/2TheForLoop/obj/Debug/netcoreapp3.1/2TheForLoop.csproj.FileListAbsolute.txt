@@ -1,0 +1,11 @@
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/bin/Debug/netcoreapp3.1/2TheForLoop.deps.json
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/bin/Debug/netcoreapp3.1/2TheForLoop.runtimeconfig.json
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/bin/Debug/netcoreapp3.1/2TheForLoop.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/bin/Debug/netcoreapp3.1/2TheForLoop.dll
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/bin/Debug/netcoreapp3.1/2TheForLoop.pdb
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/obj/Debug/netcoreapp3.1/2TheForLoop.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/obj/Debug/netcoreapp3.1/2TheForLoop.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/obj/Debug/netcoreapp3.1/2TheForLoop.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/obj/Debug/netcoreapp3.1/2TheForLoop.dll
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/obj/Debug/netcoreapp3.1/2TheForLoop.pdb
+/Users/admin/Projects/Begginers/1WHILE/2TheForLoop/obj/Debug/netcoreapp3.1/2TheForLoop.genruntimeconfig.cache
