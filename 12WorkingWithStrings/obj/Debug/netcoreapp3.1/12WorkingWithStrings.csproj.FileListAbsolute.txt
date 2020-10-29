@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/12WorkingWithStrings/bin/Debug/netcoreapp3.1/12WorkingWithStrings.deps.json
+/Users/admin/Projects/Begginers/12WorkingWithStrings/bin/Debug/netcoreapp3.1/12WorkingWithStrings.runtimeconfig.json
+/Users/admin/Projects/Begginers/12WorkingWithStrings/bin/Debug/netcoreapp3.1/12WorkingWithStrings.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/12WorkingWithStrings/bin/Debug/netcoreapp3.1/12WorkingWithStrings.dll
+/Users/admin/Projects/Begginers/12WorkingWithStrings/bin/Debug/netcoreapp3.1/12WorkingWithStrings.pdb
+/Users/admin/Projects/Begginers/12WorkingWithStrings/obj/Debug/netcoreapp3.1/12WorkingWithStrings.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/12WorkingWithStrings/obj/Debug/netcoreapp3.1/12WorkingWithStrings.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/12WorkingWithStrings/obj/Debug/netcoreapp3.1/12WorkingWithStrings.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/12WorkingWithStrings/obj/Debug/netcoreapp3.1/12WorkingWithStrings.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/12WorkingWithStrings/obj/Debug/netcoreapp3.1/12WorkingWithStrings.dll
+/Users/admin/Projects/Begginers/12WorkingWithStrings/obj/Debug/netcoreapp3.1/12WorkingWithStrings.pdb
+/Users/admin/Projects/Begginers/12WorkingWithStrings/obj/Debug/netcoreapp3.1/12WorkingWithStrings.genruntimeconfig.cache
