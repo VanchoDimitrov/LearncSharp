@@ -1,0 +1,12 @@
+/Users/admin/Projects/Begginers/HelloWord/bin/Debug/netcoreapp3.1/1HelloWord.deps.json
+/Users/admin/Projects/Begginers/HelloWord/bin/Debug/netcoreapp3.1/1HelloWord.runtimeconfig.json
+/Users/admin/Projects/Begginers/HelloWord/bin/Debug/netcoreapp3.1/1HelloWord.runtimeconfig.dev.json
+/Users/admin/Projects/Begginers/HelloWord/bin/Debug/netcoreapp3.1/1HelloWord.dll
+/Users/admin/Projects/Begginers/HelloWord/bin/Debug/netcoreapp3.1/1HelloWord.pdb
+/Users/admin/Projects/Begginers/HelloWord/obj/Debug/netcoreapp3.1/1HelloWord.csprojAssemblyReference.cache
+/Users/admin/Projects/Begginers/HelloWord/obj/Debug/netcoreapp3.1/1HelloWord.AssemblyInfoInputs.cache
+/Users/admin/Projects/Begginers/HelloWord/obj/Debug/netcoreapp3.1/1HelloWord.AssemblyInfo.cs
+/Users/admin/Projects/Begginers/HelloWord/obj/Debug/netcoreapp3.1/1HelloWord.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Begginers/HelloWord/obj/Debug/netcoreapp3.1/1HelloWord.dll
+/Users/admin/Projects/Begginers/HelloWord/obj/Debug/netcoreapp3.1/1HelloWord.pdb
+/Users/admin/Projects/Begginers/HelloWord/obj/Debug/netcoreapp3.1/1HelloWord.genruntimeconfig.cache
